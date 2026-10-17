@@ -1,0 +1,717 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "263e9ddebae0d2e69eb9880c500d231e"
+    },
+    {
+        "path": "about-us.html",
+        "type": "file",
+        "md5": "d7cb695ce75f701e88189ac7b336dd21"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "6d9000775b1756a0b51a27715646d760"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "03261f84e6f84409c82c567b69aaa1be"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "7e7780e1d650c47f332874d0585b2989"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "548663b90e1600fd2c2dd54433d04b71"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "f0c119fe4ab4e9bba79dea32d15e32df"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/grace-r-whitehead",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/grace-r-whitehead/index.html",
+        "type": "file",
+        "md5": "051e76b71c43a68930657c2aeb72b995"
+    },
+    {
+        "path": "authors/grace-r-whitehead/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/grace-r-whitehead/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/grace-r-whitehead/page/2/index.html",
+        "type": "file",
+        "md5": "094c72dab2bf3331c9747c152ef81512"
+    },
+    {
+        "path": "authors/grace-r-whitehead/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/grace-r-whitehead/page/3/index.html",
+        "type": "file",
+        "md5": "d8fc40e8effa9551899d9ec5415ac07e"
+    },
+    {
+        "path": "contact-us.html",
+        "type": "file",
+        "md5": "dceb254519af5f5c522b69cd480c92c0"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "8210839436b1aa1a963a5487c6847dfb"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "fd5449dff5abedd83765aaeae08a18c1"
+    },
+    {
+        "path": "how-to-choose-a-stylish-and-comfortable-bed-frame-for-your-bedroom.html",
+        "type": "file",
+        "md5": "98caceb5cf8558722f2c798ed22942c7"
+    },
+    {
+        "path": "how-to-choose-comfortable-and-stylish-dining-chairs-for-your-home.html",
+        "type": "file",
+        "md5": "6ec6d4cd230908358aeb3c69cf1aa0d2"
+    },
+    {
+        "path": "how-to-choose-stylish-and-comfortable-sofas-for-a-modern-home.html",
+        "type": "file",
+        "md5": "4ebdf23fee15a618fe9d35bf52bf988f"
+    },
+    {
+        "path": "how-to-choose-the-perfect-accent-chair-for-your-living-room.html",
+        "type": "file",
+        "md5": "f6ac607fa2b9179bf48fd111282145bd"
+    },
+    {
+        "path": "how-to-choose-the-perfect-bookcase-for-your-home.html",
+        "type": "file",
+        "md5": "efd87d8a1a391dadac643eb947515b50"
+    },
+    {
+        "path": "how-to-choose-the-perfect-bunk-bed-for-a-kids-bedroom.html",
+        "type": "file",
+        "md5": "50e88575c90d9a9b8dccf25f6336b574"
+    },
+    {
+        "path": "how-to-choose-the-perfect-dining-table-for-a-modern-home.html",
+        "type": "file",
+        "md5": "c6e5c4654678d6551f7afbae53164116"
+    },
+    {
+        "path": "how-to-choose-the-perfect-dining-table-set-for-your-home.html",
+        "type": "file",
+        "md5": "99e44b8bfc4fba2a93e6c08a050095b6"
+    },
+    {
+        "path": "how-to-choose-the-perfect-media-console-for-a-modern-living-room.html",
+        "type": "file",
+        "md5": "b4d7502c6f279e49113bb7f62ef96454"
+    },
+    {
+        "path": "how-to-choose-the-perfect-modular-sectional-for-your-home.html",
+        "type": "file",
+        "md5": "5b2064e274701bbfd35ee18107ee418a"
+    },
+    {
+        "path": "how-to-choose-the-perfect-wardrobe-for-an-organized-bedroom.html",
+        "type": "file",
+        "md5": "f8b7b03890e9895de3861f6308896a62"
+    },
+    {
+        "path": "how-to-choose-the-perfect-wooden-bed-for-a-comfortable-bedroom.html",
+        "type": "file",
+        "md5": "5080c43e4ff5bf5b8dd5c35c1c5da0bb"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "35cad2ab9385e963eab4cd56e5ea74c3"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/10",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/OIP-37.jfif",
+        "type": "file",
+        "md5": "1643a227aa121fb49883af0502670ac1"
+    },
+    {
+        "path": "/media/posts/10/OIP-38.jfif",
+        "type": "file",
+        "md5": "13c2ff097629d72f45a9102556a96802"
+    },
+    {
+        "path": "media/posts/11",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/11/OIP-39.jfif",
+        "type": "file",
+        "md5": "94f3efa8122b4e2fe1cfdd8067274af4"
+    },
+    {
+        "path": "/media/posts/11/OIP-40.jfif",
+        "type": "file",
+        "md5": "fa7945c4236ff75ab9c34d2c897689ed"
+    },
+    {
+        "path": "media/posts/12",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/12/OIP-41.jfif",
+        "type": "file",
+        "md5": "5b21b0a128fe96438872b7d1386b3e5a"
+    },
+    {
+        "path": "/media/posts/12/OIP-42.jfif",
+        "type": "file",
+        "md5": "fa7945c4236ff75ab9c34d2c897689ed"
+    },
+    {
+        "path": "media/posts/13",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/13/OIP-43.jfif",
+        "type": "file",
+        "md5": "66f8ce66c25eecf6394c5c4338791bd1"
+    },
+    {
+        "path": "/media/posts/13/OIP-44.jfif",
+        "type": "file",
+        "md5": "63f80177d050fc28cfcb7f7a991d4615"
+    },
+    {
+        "path": "media/posts/14",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/14/OIP-45.jfif",
+        "type": "file",
+        "md5": "4081655a9013980d4ebf6f44c53f4322"
+    },
+    {
+        "path": "/media/posts/14/OIP-46.jfif",
+        "type": "file",
+        "md5": "54006cfc99032e09ba61fa96ef895486"
+    },
+    {
+        "path": "media/posts/15",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/15/OIP-47.jfif",
+        "type": "file",
+        "md5": "1d9a31aa5a3cf45827cf8542595c83e7"
+    },
+    {
+        "path": "/media/posts/15/OIP-48.jfif",
+        "type": "file",
+        "md5": "fa626af25c2898a721534d388363b8fb"
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/OIP-29.jfif",
+        "type": "file",
+        "md5": "05fa12d5d1d06900b1af8d14211bf3e1"
+    },
+    {
+        "path": "/media/posts/4/OIP-30.jfif",
+        "type": "file",
+        "md5": "1365cfdbc39935a68dbd36ec3d3fbce0"
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/OIP-31.jfif",
+        "type": "file",
+        "md5": "666eb1f42ee97b5d0b66d8bbbf4e11c5"
+    },
+    {
+        "path": "media/posts/5/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/responsive/ultra-realistic-interior-photograph-of-a_4e3y6HkcRb6U152wKpZ7UQ_o9bQH5wERnWNd4lrqvOMqg-2xl.webp",
+        "type": "file",
+        "md5": "325b656796670c28a2e75831e47bbcab"
+    },
+    {
+        "path": "/media/posts/5/responsive/ultra-realistic-interior-photograph-of-a_4e3y6HkcRb6U152wKpZ7UQ_o9bQH5wERnWNd4lrqvOMqg-lg.webp",
+        "type": "file",
+        "md5": "325b656796670c28a2e75831e47bbcab"
+    },
+    {
+        "path": "/media/posts/5/responsive/ultra-realistic-interior-photograph-of-a_4e3y6HkcRb6U152wKpZ7UQ_o9bQH5wERnWNd4lrqvOMqg-md.webp",
+        "type": "file",
+        "md5": "bb3068481248f942a6b78a207e18da36"
+    },
+    {
+        "path": "/media/posts/5/responsive/ultra-realistic-interior-photograph-of-a_4e3y6HkcRb6U152wKpZ7UQ_o9bQH5wERnWNd4lrqvOMqg-sm.webp",
+        "type": "file",
+        "md5": "5fe10806273580f71b233e82daa94ac1"
+    },
+    {
+        "path": "/media/posts/5/responsive/ultra-realistic-interior-photograph-of-a_4e3y6HkcRb6U152wKpZ7UQ_o9bQH5wERnWNd4lrqvOMqg-xl.webp",
+        "type": "file",
+        "md5": "325b656796670c28a2e75831e47bbcab"
+    },
+    {
+        "path": "/media/posts/5/responsive/ultra-realistic-interior-photograph-of-a_4e3y6HkcRb6U152wKpZ7UQ_o9bQH5wERnWNd4lrqvOMqg-xs.webp",
+        "type": "file",
+        "md5": "094e1f1d30bdb16acfe804c656d32cbd"
+    },
+    {
+        "path": "/media/posts/5/ultra-realistic-interior-photograph-of-a_4e3y6HkcRb6U152wKpZ7UQ_o9bQH5wERnWNd4lrqvOMqg.webp",
+        "type": "file",
+        "md5": "952457241afae4a4d1ad9428d821c1a7"
+    },
+    {
+        "path": "media/posts/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/12da155880d181448743986f694bb490.jpg",
+        "type": "file",
+        "md5": "fe88d25d3dbae719b11b58894463557a"
+    },
+    {
+        "path": "/media/posts/6/OIP-32.jfif",
+        "type": "file",
+        "md5": "0761c2397aee4741356fe15b49f88c30"
+    },
+    {
+        "path": "media/posts/6/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/responsive/12da155880d181448743986f694bb490-2xl.jpg",
+        "type": "file",
+        "md5": "ef1f019836e5f32a31254562356c9e30"
+    },
+    {
+        "path": "/media/posts/6/responsive/12da155880d181448743986f694bb490-lg.jpg",
+        "type": "file",
+        "md5": "ef1f019836e5f32a31254562356c9e30"
+    },
+    {
+        "path": "/media/posts/6/responsive/12da155880d181448743986f694bb490-md.jpg",
+        "type": "file",
+        "md5": "ef1f019836e5f32a31254562356c9e30"
+    },
+    {
+        "path": "/media/posts/6/responsive/12da155880d181448743986f694bb490-sm.jpg",
+        "type": "file",
+        "md5": "ef1f019836e5f32a31254562356c9e30"
+    },
+    {
+        "path": "/media/posts/6/responsive/12da155880d181448743986f694bb490-xl.jpg",
+        "type": "file",
+        "md5": "ef1f019836e5f32a31254562356c9e30"
+    },
+    {
+        "path": "/media/posts/6/responsive/12da155880d181448743986f694bb490-xs.jpg",
+        "type": "file",
+        "md5": "550ddc1321d2d8e9716f08d1343591be"
+    },
+    {
+        "path": "media/posts/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/OIP-6.jfif",
+        "type": "file",
+        "md5": "4e5a300ef8c7e2e9b02e2a0dc6d6a7ae"
+    },
+    {
+        "path": "/media/posts/7/OIP-7.jfif",
+        "type": "file",
+        "md5": "b93d9bf2ba4c265c7a07d592473b3d87"
+    },
+    {
+        "path": "media/posts/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/OIP-33.jfif",
+        "type": "file",
+        "md5": "f4d3fcf89f4f21896684c77a444ceea6"
+    },
+    {
+        "path": "/media/posts/8/OIP-34.jfif",
+        "type": "file",
+        "md5": "678f0ea2ef5f58b03872c5cf62880c11"
+    },
+    {
+        "path": "media/posts/9",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/OIP-35.jfif",
+        "type": "file",
+        "md5": "87bdce5bd1de0473845c0bc65f39c939"
+    },
+    {
+        "path": "/media/posts/9/OIP-36.jfif",
+        "type": "file",
+        "md5": "42161036a73b6ea56dec2ccb768f9f5f"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/shaar-brym-lyfynG-llthth-llmny-2xl.png",
+        "type": "file",
+        "md5": "f6f9e49e5bfcc643062ab847bfbed0ad"
+    },
+    {
+        "path": "/media/website/responsive/shaar-brym-lyfynG-llthth-llmny-lg.png",
+        "type": "file",
+        "md5": "f6f9e49e5bfcc643062ab847bfbed0ad"
+    },
+    {
+        "path": "/media/website/responsive/shaar-brym-lyfynG-llthth-llmny-md.png",
+        "type": "file",
+        "md5": "0b8f06e316b57cd90d0a8aebac99c895"
+    },
+    {
+        "path": "/media/website/responsive/shaar-brym-lyfynG-llthth-llmny-sm.png",
+        "type": "file",
+        "md5": "66df1caff87811def581574b8c7ad916"
+    },
+    {
+        "path": "/media/website/responsive/shaar-brym-lyfynG-llthth-llmny-xl.png",
+        "type": "file",
+        "md5": "f6f9e49e5bfcc643062ab847bfbed0ad"
+    },
+    {
+        "path": "/media/website/responsive/shaar-brym-lyfynG-llthth-llmny-xs.png",
+        "type": "file",
+        "md5": "50b5bb150acc7e15301eb2facaeea2ac"
+    },
+    {
+        "path": "/media/website/shaar-brym-lyfynG-llthth-llmny.png",
+        "type": "file",
+        "md5": "050be6cffdfc25f81260d0c7de180669"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "af7b17067c8fd466fa15eda1856ac22a"
+    },
+    {
+        "path": "page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/3/index.html",
+        "type": "file",
+        "md5": "d1089e85253aa6b4c054dfa1adc77f41"
+    },
+    {
+        "path": "privacy-policy.html",
+        "type": "file",
+        "md5": "601e36175310c325a83dfb3c890a0dab"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "2df0487fc0764dc39e4b6262fe498861"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "e20861b794c1485290cc91fbd3b51f39"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/accent-club-chairs",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/accent-club-chairs/index.html",
+        "type": "file",
+        "md5": "eb21acc4d53f25bdfcd5fa6e99365e33"
+    },
+    {
+        "path": "tags/bedroom-wardrobe-closets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/bedroom-wardrobe-closets/index.html",
+        "type": "file",
+        "md5": "28aaf46e4f17c77c78ebb6f3fb6af026"
+    },
+    {
+        "path": "tags/children-bunk-beds",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/children-bunk-beds/index.html",
+        "type": "file",
+        "md5": "0ad566790c68804b5ab6a23f73894547"
+    },
+    {
+        "path": "tags/dining-room-furniture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/dining-room-furniture/index.html",
+        "type": "file",
+        "md5": "81a7d8087348d2472ca0bc248f675d11"
+    },
+    {
+        "path": "tags/extendable-dining-table-sets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/extendable-dining-table-sets/index.html",
+        "type": "file",
+        "md5": "042e015ba72ca904dd0c262ff6386dde"
+    },
+    {
+        "path": "tags/glass-top-dining-tables",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/glass-top-dining-tables/index.html",
+        "type": "file",
+        "md5": "a8ca8a3c41b68217cf2540e2292be1fb"
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "d77e851326028c1434ef945c032f676e"
+    },
+    {
+        "path": "tags/l-shaped-modular-sectionals",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/l-shaped-modular-sectionals/index.html",
+        "type": "file",
+        "md5": "17e5ad4741efd2ea67dfa5e353c6d586"
+    },
+    {
+        "path": "tags/living-room-and-sectionals",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/living-room-and-sectionals/index.html",
+        "type": "file",
+        "md5": "afa524b47cde2d997ea3fb556c548bb4"
+    },
+    {
+        "path": "tags/living-room-media-consoles",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/living-room-media-consoles/index.html",
+        "type": "file",
+        "md5": "586c0781191af628f213f4c17214fd4d"
+    },
+    {
+        "path": "tags/master-and-kids-bedrooms",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/master-and-kids-bedrooms/index.html",
+        "type": "file",
+        "md5": "67a32f2ba32323dd9e9b59fe5d7f8bf3"
+    },
+    {
+        "path": "tags/modern-velvet-living-room-sofas",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/modern-velvet-living-room-sofas/index.html",
+        "type": "file",
+        "md5": "3b1ef787c0008cf83196517f132af5c9"
+    },
+    {
+        "path": "tags/solid-wood-master-beds",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/solid-wood-master-beds/index.html",
+        "type": "file",
+        "md5": "c17ef50e9e831e40a6fdb20096db3262"
+    },
+    {
+        "path": "tags/storage-and-media-units",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/storage-and-media-units/index.html",
+        "type": "file",
+        "md5": "08cdcd7cd44ad4fbb97e1c8ee06ed5bc"
+    },
+    {
+        "path": "tags/tall-wooden-bookcases",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/tall-wooden-bookcases/index.html",
+        "type": "file",
+        "md5": "61367531acef1b1a07d1d530a7c77083"
+    },
+    {
+        "path": "tags/upholstered-dining-chairs",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/upholstered-dining-chairs/index.html",
+        "type": "file",
+        "md5": "2682166af3370f0407fe1fa404f4432a"
+    },
+    {
+        "path": "tags/upholstered-headboard-frames",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/upholstered-headboard-frames/index.html",
+        "type": "file",
+        "md5": "51c526afd58eeaff7f1496817bf9e6a1"
+    }
+]
